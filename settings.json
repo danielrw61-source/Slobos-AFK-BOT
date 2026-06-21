@@ -8,7 +8,7 @@
   "server": {
     "ip": "diggasmp.aternos.me",
     "port": 23137,
-    "version": "1.21.11"
+    "version": "false"
   },
   "position": {
     "enabled": true,
@@ -40,7 +40,7 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 20000,
     "periodic-rejoin": {
-      "enabled": true,
+      "enabled": false,
       "min-interval": 20,
       "max-interval": 60
     }
